@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saigon-private-car-korea.onrender.com/sitemap.xml
